@@ -68,6 +68,21 @@ Uses YOLOv8-Pose for real-time detection of **multiple people**.
 
 ---
 
+### `Scene_Detect_CNN.ipynb`
+**2D Image based Scene Detection**  
+This script is built on the Google Colab. It takes the zip file from the Google drive. It processes individual images from three folders splitted into Train and Test directories:
+- `/Nobody/`
+- `/Person OK/`
+- `/Person NOT OK/`
+
+For each image:
+- Assign images the class/label with the name of folder
+- Perform Image Augmentation and Image processing using CNN model
+- Trains the model
+- Labels the result using OpenCV
+
+---
+
 ## Voice Output
 All live scripts support audio alerts via `pyttsx3`. The system says:  
 **“Alert. Person not okay.”**  
