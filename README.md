@@ -170,5 +170,4 @@ Under the following terms:
 
 Copyleft — If you modify and distribute the project, you must release it under the same GPLv3 license.
 
-No Warranty — This project is provided "as is", without warranty of any kind.
 ---
