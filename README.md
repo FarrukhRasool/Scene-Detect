@@ -156,4 +156,19 @@ SCENE-DETECT ensures:
 - Smart Scene Detect Project, OTH Amberg-Weiden
 - Course: Industry 4.0 Project/ Artificial Intelligence for Industrial Applications
 
+
+## License
+This project is licensed under the terms of the GNU General Public License v3.0 (GPLv3).
+
+You are free to:
+
+Share — copy and redistribute the material in any medium or format
+
+Adapt — remix, transform, and build upon the material for any purpose
+
+Under the following terms:
+
+Copyleft — If you modify and distribute the project, you must release it under the same GPLv3 license.
+
+No Warranty — This project is provided "as is", without warranty of any kind.
 ---
